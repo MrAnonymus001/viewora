@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.bat
+serve.js
+scrape.js
+verify.js
+upload*.js
+preview-*.png
+.DS_Store
